@@ -7,15 +7,15 @@
 
 border: none;
 background-color: black;
-color: #61122F;
+color: blue;
 }
 body{
-	background-color: #61122F;
+	background-color: blue;
 	color: white;
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F; 
+	color:blue; 
 }
 
 .center{
